@@ -13,7 +13,7 @@ Contact Me
 
 * **Email:** katerina.franco@nps.edu
 * **Phone:** 625-834-3423
-* **LinkedIn:** 
+* **LinkedIn:** https://www.linkedin.com/in/katerina-franco-7397a9255/
 
 ## Education
 
