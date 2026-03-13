@@ -16,8 +16,8 @@ Contact Me
 
 ## Work Experience
 **Naval Postgraduate Student**
-Naval Postgraduate School, Monterey, CA
-(*May 2025 - Present*)
+* Naval Postgraduate School, Monterey, CA
+* (*May 2025 - Present*)
 
 **USMC Officer**  
 Camp Pendleton  
