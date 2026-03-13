@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/images/Screenshot_12-3-2026_153910_python.nps.edu.jpeg" width="250">
-</p>
+
 
 # Katerina Franco
 ### USMC Officer | MS Operations Research Student
