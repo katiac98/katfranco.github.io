@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/images/profile.jpg" width="250">
+</p>
+
 # Katerina Franco
 ### USMC Officer | MS Operations Research Student
 
