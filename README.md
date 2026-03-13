@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/profile.jpg" width="250">
+  <img src="/images/Screenshot_12-3-2026_153910_python.nps.edu.jpeg" width="250">
 </p>
 
 # Katerina Franco
