@@ -42,4 +42,4 @@ Dec 2020 – May 2025
 
 **Final Project – Computational Methods II**  
 Repository:  
-https://github.com/DarioSchwarzbach/Final_Project_Comp_II
+[github.com/DarioSchwarzbach/Final_Project_Comp_II](https://github.com/DarioSchwarzbach/Final_Project_Comp_II)
